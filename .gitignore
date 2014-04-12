@@ -1,0 +1,9 @@
+*.bak
+*.swp
+*.log
+*.class
+.idea/*
+out/*
+.idea/
+web/WEB-INF/classes/
+*.iml
