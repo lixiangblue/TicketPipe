@@ -1,4 +1,4 @@
-package com.pipework;
+package com.pipework.dao;
 
 /**
  * Hello world!
